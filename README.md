@@ -25,7 +25,7 @@ A simple mobile game built using **React Native** and **Expo**, showcasing clean
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-native-game-app.git
+git clone https://github.com/suyogshejal2004/Guess_The_Number.git
 cd react-native-game-app
 ```
 
