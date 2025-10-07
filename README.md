@@ -4,6 +4,10 @@
 
 
 ##Here are some screenshots of the project:
+<img src="https://github.com/user-attachments/assets/e4568788-7d6c-49c0-a777-d145c5e577ea" width="400" />
+<img src="https://github.com/user-attachments/assets/93f0cd82-8724-4dfb-a159-6e854b94afaa" width="400" />
+<img src="https://github.com/user-attachments/assets/4103aafd-20a9-4dcb-8287-634294fd5fb2" width="400" />
+<img src="https://github.com/user-attachments/assets/e3bedaf2-c06d-4a99-9daa-38699453e6ef" width="400" />
 
 ![Image](https://github.com/user-attachments/assets/e4568788-7d6c-49c0-a777-d145c5e577ea)
 
